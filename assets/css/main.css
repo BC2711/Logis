@@ -1722,7 +1722,7 @@ section {
   width: 100%;
   min-height: 50vh;
   background-color: var(--color-secondary);
-  background-image: url("../img/hero-bg.png");
+  background-image: url("../img/index/homeimg.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -1745,9 +1745,10 @@ section {
 }
 
 .hero p {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   margin-bottom: 40px;
+  color: #fff;
 }
 
 .hero form {
